@@ -14,7 +14,7 @@ The sources are available under an "Apache 2.0 license":http://www.apache.org/li
 
 The distribution makes use of and includes also the following open source libraries (please respect the respective licenses): 
 * "d3.js": http://d3js.org/
-* "zepto.js":zeptojs.com/‎
-* "dat-gui":http://code.google.com/p/dat-gui/‎
-* "canvg":http://code.google.com/p/canvg/‎
-* "svgenie":https://github.com/Causata/svgenie
+* "zepto.js": http://zeptojs.com/‎
+* "dat-gui": http://code.google.com/p/dat-gui/‎
+* "canvg": http://code.google.com/p/canvg/‎
+* "svgenie": https://github.com/Causata/svgenie
