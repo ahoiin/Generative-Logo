@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="logo" type="image/png" href="demo.png" />
+  <title>urban biotopes</title>
+  <style>
+    body { background-color: #f5f5f5; }
+    #chart svg { position: absolute;  top: 15%; left: 15%;}
+    .radar-chart-serie { stroke-width: 0.5;}
+    /* gui window*/
+    .dg .cr.function { width: 300px; } 
+    .dg.a.has-save ul { margin: 0px !important; }
+    .dg.a.has-save>ul>li:nth-child(2) { margin-top: 25px; }  
+  </style>
+  <script src="lib/d3.v3.min.js"></script>
+  <script type="text/javascript" src="lib/canvg.js"></script> 
+  <script type="text/javascript" src="lib/dat.gui.min.js"></script>
+  <script type="text/javascript" src="lib/zepto.min.js"></script>
+  <script type="text/javascript" src="lib/svggenie.js"></script> 
+</head>
+
+<body>
+  <div id="chart"></div>
+</body>
+
+<script src="chart.js"></script>
+<script src="gui.js"></script>
+</html>
+
+
